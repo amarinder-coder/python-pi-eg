@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 def main(msg):
-     //another comments
+     //another commentss
    //adding a diffrent comment
 
   // print a message
